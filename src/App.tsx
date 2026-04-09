@@ -1,4 +1,4 @@
-import React from 'react';
+
 import AntigravityBackground from './components/AntigravityBackground';
 import HeroOverlay from './components/HeroOverlay';
 
